@@ -1,5 +1,6 @@
-const loayalityTokenRewardAddress = "0x8cD7E7987FeB0dEF86a1420A8146CE3f1d51c10d";
-const tokenMartAddress="0x0F2007Be450C0FD6c9F965771CB6d12Ae1b0e61F";
+const loayalityTokenRewardAddress ="0xc6865bad68cf4803aA569AE0eF58C2784b95857E";
+const tokenMartAddress = "0x6dbeC3133f274e0446f821a27D801968c563E29F";
+const tokenMartNftAddress = "0x502C7b585DbEf040a5B7e71217270dD77287c86b";
 
 
 async function sleep(ms) {
@@ -18,7 +19,7 @@ async function deployContract() {
   console.log("Verifying Ecommerce Contract on Given Network ...");
   //   Verify the Liquidity Locking Contract
   await hre.run("verify:verify", {
-    contract: "contracts/TokenMartNFT.sol:EcommerceBrandTokenReward",
+    contract: "contracts/TokenMart.sol:EcommerceBrandTokenReward",
     address: address,
     constructorArguments: [loayalityTokenRewardAddress],
   });

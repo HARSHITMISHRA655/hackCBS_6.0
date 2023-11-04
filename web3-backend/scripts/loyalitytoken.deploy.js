@@ -12,7 +12,7 @@ async function deployContract() {
   console.log("Verifying Ecommerce Contract on Given Network ...");
   //   Verify the Liquidity Locking Contract
   await hre.run("verify:verify", {
-    contract: "contracts/LoyalityToken.sol:LoyaltyToken",
+    contract: "contracts/LoyalityToken.sol:LoyalityToken",
     address: address,
   });
 }

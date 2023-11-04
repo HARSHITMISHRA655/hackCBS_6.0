@@ -1,4 +1,4 @@
-export const NFTAddress ="0x6964CdE9346F11fF5066187388bBb917ABCdb8C0";
+export const NFTAddress = "0x502C7b585DbEf040a5B7e71217270dD77287c86b";
 export const NFTAbi =[
     {
       "inputs": [],
@@ -439,7 +439,7 @@ export const NFTAbi =[
     }
   ];
 
-export const EcommerceAddress="0x0F2007Be450C0FD6c9F965771CB6d12Ae1b0e61F";
+export const EcommerceAddress = "0x6dbeC3133f274e0446f821a27D801968c563E29F";
 export const EcommerceAbi= [
   {
     "inputs": [
@@ -1123,7 +1123,7 @@ export const EcommerceAbi= [
     "type": "function"
   }
 ];
-export const LoyalityTokenAddress="0x8cD7E7987FeB0dEF86a1420A8146CE3f1d51c10d";  
+export const LoyalityTokenAddress = "0xc6865bad68cf4803aA569AE0eF58C2784b95857E";  
 export const LoyalityTokenABI=[
   {
     "inputs": [],

@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-import {LoyalityToken} from "./LoayalityToken.sol";
+import {LoyalityToken} from "./LoyalityToken.sol";
 import {MintableToken} from "./BrandToken.sol";
 
 contract EcommerceBrandTokenReward {
     address public owner;
-    LoyaltyToken private rewardToken;
+    LoyalityToken private rewardToken;
     mapping(uint256 => Brand) private brands;
     mapping(address => mapping(uint256 => uint256)) private brandTokens;
     mapping(address => mapping(uint256 => uint256)) public brandBalance;
@@ -77,7 +77,7 @@ contract EcommerceBrandTokenReward {
 
     constructor(address _loyalityTokenAddress) {
         owner = msg.sender;
-        rewardToken = LoyaltyToken(_loyalityTokenAddress);
+        rewardToken = LoyalityToken(_loyalityTokenAddress);
         rewardToken.mint(address(this), 1000000);
     }
 
@@ -178,7 +178,7 @@ contract EcommerceBrandTokenReward {
         uint256 balanceIncreased = users[msg.sender].totalLoyalityTokenBalance *
             2;
         
-        LoyaltyToken(loyalityTokenAddress).burn(
+        LoyalityToken(loyalityTokenAddress).burn(
             users[msg.sender].totalLoyalityTokenBalance
         );
         users[msg.sender].totalBalance += balanceIncreased;

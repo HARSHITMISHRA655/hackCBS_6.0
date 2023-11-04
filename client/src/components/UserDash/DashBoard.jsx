@@ -119,11 +119,11 @@ const DashBoard = () => {
           </div>
         </div>
         <div className="w-full px-4 py-2 bg-black lg:w-full h-full">
-          <div className="flex flex-row">
+          <div className="flex flex-col ">
             {selectedButton == "transactions" ? null : (
               <a
                 className="relative cursor-pointer"
-                href="https://testnets.opensea.io/assets/mumbai/0x5696c9a0c4d846f90adcb3c270705229ab1e36e5/1"
+                href="https://testnets.opensea.io/assets/mumbai/0x502c7b585dbef040a5b7e71217270dd77287c86b/1"
                 target="_blank"
               >
                 <div className="flex flex-row relative mt-[13vh] justify-between">
@@ -134,14 +134,14 @@ const DashBoard = () => {
                         radius={"md"}
                         withBorder
                         className="ml-[2vw]"
-                        h={"40vh"}
+                        h={"48vh"}
                       >
                         <Card.Section p={12} pt={25}>
                           <Image
                             className="object-contain"
-                            src={"./assets/grid_logo.png"}
-                            height={"30vh"}
-                            width={"18vw"}
+                            src={"./assets/nf.avif"}
+                            height={"35vh"}
+                            width={"50vw"}
                             alt="monkey-nft"
                             radius={"md"}
                           />

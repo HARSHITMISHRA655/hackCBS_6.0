@@ -6,7 +6,8 @@ async function deployContract() {
   console.log("[main] Waiting for Deployment...");
   await deployedContract.waitForDeployment();
   const address = await deployedContract.getAddress();
-  console.log("TokenMartNFT Contract Address:", address);
+  console.log("Token---MartNFT Contract Address:", address);
+
 
   await sleep(30 * 1000);
   console.log("Verifying TokenMartNFT Contract on Given Network ...");

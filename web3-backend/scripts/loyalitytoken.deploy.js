@@ -2,7 +2,7 @@ async function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 async function deployContract() {
-  const deployedContract = await ethers.deployContract("LoyaltyToken");
+  const deployedContract = await ethers.deployContract("LoyalityToken");
   console.log("[main] Waiting for Deployment...");
   await deployedContract.waitForDeployment();
   const address = await deployedContract.getAddress();

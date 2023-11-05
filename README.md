@@ -1,5 +1,5 @@
 <h1 align="center">
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=true&vCenter=true&width=900&lines=Token.Mart" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=true&vCenter=true&width=900&lines=Token.Mart" alt="Typing SVG" />
 <br/>
 </h1>
 <p align="center">
@@ -23,7 +23,7 @@
   * Github : url(https://github.com/yashdua092);
 
 
-## Introduction:
+## Introduction:
 Tokenizing the whole process of rewards and decision making, our tokens, powered by smart contracts, is set to change how ecommerce works. We give customers Brand Tokens, Loyalty Tokens, and special perks that create strong and lasting connections with businesses. We make it easy for users, offer exclusive benefits, time-sensitive rewards, bonuses for referrals, and can handle lots of users. This means personalized fun, and rewarding online shopping. It's more than just buying; it's a partnership.
 <br />
 # Features:
@@ -34,11 +34,11 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
   * VIP Brand Tokens
   * Time-Limited Tokens
   * Referral Based Smart Contracts
-  * Scalability: Using TON, could scale the application for million of users at a same time.
+  * Scalability: Using TON, could scale the application for millions of users at the same time.
 
 ## Features for Users:
 
-  * Easy Tracability of Tokens
+  * Easy Traceability of Tokens
   * User Friendly Interface
 
 ## Features for Brands:
@@ -51,8 +51,8 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
  ## TON: 
 
   * Integration of **TON Keeper** and **TON related** Wallets.
-  * Deployed all the Smart Contracts on TON Blockchain. ALl the addresses of the wallets are as followed:
-  * All the information related to Token's(Loyalty and  Brand) transactions are stored on TON's Blockchain.
+  * Deployed all the Smart Contracts on TON Blockchain. All the addresses of the wallets are as follows:
+  * All the information related to Token's(Loyalty and  Brand) transactions is stored on TON's Blockchain.
 
  ## Circle API:
 
@@ -61,9 +61,9 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
  ## Polygon:
 
   * Deployed and verified all the contracts on the Polygon blockchain, That includes:
-    * TOKENMART's Smart Contract
-    * TOKENMART's NFT Smart Contract
-    * Loyalty Token Smart Contract
+    * TOKENMART's Smart Contract:- 0x6dbeC3133f274e0446f821a27D801968c563E29F
+    * TOKENMART's NFT Smart Contract:- 0x502C7b585DbEf040a5B7e71217270dD77287c86b
+    * Loyalty Token Smart Contract:- 0xc6865bad68cf4803aA569AE0eF58C2784b95857E
 
  ## MongoDB:
  

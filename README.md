@@ -1,26 +1,23 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=true&vCenter=true&width=900&lines=Token.Mart" alt="Typing SVG" />
-<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=true&vCenter=true&width=900&lines=TokenMart" alt="Typing SVG" />
 </h1>
+
 <p align="center">
 </p>
 
 ## Team Name 
-<h4> Boat-GO-Ahead </h4>
+<h3> Boat-GO-Ahead </h3>
 
 ## Team Members 
-* Neeraj Choubisa 
-  * Linkedin : url(https://www.linkedin.com/in/neeraj-choubisa-a4952b202/);
-  * Github : url(https://github.com/Kali-Decoder);
-  * Twitter : url(https://twitter.com/itsNikku876);
+Neeraj Choubisa   &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)       [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kali-Decoder)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsNikku876)
 
-* Harshit Mishra
-  * Linkedin : url(https://www.linkedin.com/in/harshit-mishra-4b530b20b/);
-  * Github : url(https://github.com/HARSHITMISHRA655);
+Harshit Mishra   &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-mishra-4b530b20b/)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARSHITMISHRA655)
 
-* Yash Dua
-  * Linkedin : url(https://www.linkedin.com/in/yash-dua-078392200/);
-  * Github : url(https://github.com/yashdua092);
+Yash Dua   &emsp;&emsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dua-078392200/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashdua092)
+
+Rakesh Roushan  &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-roushan/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshan23R)
+
+
 
 
 ## Introduction:

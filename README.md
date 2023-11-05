@@ -5,24 +5,14 @@
 <p align="center">
 </p>
 
-## Team Name 
+# Team Name 
 <h3> Boat-GO-Ahead </h3>
 
-## Team Members 
-Neeraj Choubisa   &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-choubisa-a4952b202/)       [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kali-Decoder)     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsNikku876)
 
-Harshit Mishra   &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-mishra-4b530b20b/)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARSHITMISHRA655)
-
-Yash Dua   &emsp;&emsp;  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-dua-078392200/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashdua092)
-
-Rakesh Roushan  &emsp;&emsp;   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-roushan/)     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Roshan23R)
-
-
-
-
-## Introduction:
+# Introduction:
 Tokenizing the whole process of rewards and decision making, our tokens, powered by smart contracts, is set to change how ecommerce works. We give customers Brand Tokens, Loyalty Tokens, and special perks that create strong and lasting connections with businesses. We make it easy for users, offer exclusive benefits, time-sensitive rewards, bonuses for referrals, and can handle lots of users. This means personalized fun, and rewarding online shopping. It's more than just buying; it's a partnership.
-<br />
+
+
 # Features:
 
   * Brand token Distribution
@@ -31,7 +21,7 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
   * VIP Brand Tokens
   * Time-Limited Tokens
   * Referral Based Smart Contracts
-  * Scalability: Using TON, could scale the application for millions of users at the same time.
+  * Scalability: Using TON, could scale the application as it is the fastest blockchain network
 
 ## Features for Users:
 
@@ -42,6 +32,12 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
 
   * Token Value Setup
   * Easy Settlement
+
+# Architecture
+
+![architecture_hackcbs](https://github.com/Kali-Decoder/hackCBS_6.0/assets/82640582/b8b474b8-462f-4538-8e74-4236cd47bbf3)
+
+<br>
 
 # Tracks We Covered:
 
@@ -82,13 +78,65 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
       * Total loyalty Tokens
       * Total Balance of the User
 
-    
 
 # Tech Stack:
-
 * TypeScript
 * Solidity
 * React.js
 * Express.js
 * MongoDB
+
+
+<div>
+  <h1>Team Members</h1>
+
+  <div>
+    <h3>Neeraj Choubisa</h3>
+    &emsp;&emsp;
+    <a href="https://www.linkedin.com/in/neeraj-choubisa-a4952b202/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Kali-Decoder">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://twitter.com/itsNikku876">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+  </div>
+
+  <div>
+    <h3>Harshit Mishra</h3>
+    &emsp;&emsp;
+    <a href="https://www.linkedin.com/in/harshit-mishra-4b530b20b/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/HARSHITMISHRA655">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
+
+  <div>
+    <h3>Yash Dua</h3>
+    &emsp;&emsp;
+    <a href="https://www.linkedin.com/in/yash-dua-078392200/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/yashdua092">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
+
+  <div>
+    <h3>Rakesh Roushan</h3>
+    &emsp;&emsp;
+    <a href="https://www.linkedin.com/in/connect-roushan/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://github.com/Roshan23R">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </div>
+</div>
+
+  
   

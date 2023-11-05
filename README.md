@@ -5,8 +5,7 @@
 <p align="center">
 </p>
 
-# Team Name 
-<h3> Boat-GO-Ahead </h3>
+<h1> <b>Team Name</b>:  Boat-GO-Ahead </h1>
 
 
 # Introduction:

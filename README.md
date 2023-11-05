@@ -6,7 +6,7 @@
 </p>
 
 ## Team Name 
-<h3> Boat-GO-Ahead </h3>
+<h4> Boat-GO-Ahead </h4>
 
 ## Team Members 
 * Neeraj Choubisa 
@@ -17,6 +17,10 @@
 * Harshit Mishra
   * Linkedin : url(https://www.linkedin.com/in/harshit-mishra-4b530b20b/);
   * Github : url(https://github.com/HARSHITMISHRA655);
+
+* Yash Dua
+  * Linkedin : url(https://www.linkedin.com/in/yash-dua-078392200/);
+  * Github : url(https://github.com/yashdua092);
 
 
 ## Introduction:
@@ -32,7 +36,7 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
   * Referral Based Smart Contracts
   * Scalability: Using TON, could scale the application for million of users at a same time.
 
-## Features for users:
+## Features for Users:
 
   * Easy Tracability of Tokens
   * User Friendly Interface
@@ -41,6 +45,46 @@ Tokenizing the whole process of rewards and decision making, our tokens, powered
 
   * Token Value Setup
   * Easy Settlement
+
+# Tracks We Covered:
+
+ ## TON: 
+
+  * Integration of **TON Keeper** and **TON related** Wallets.
+  * Deployed all the Smart Contracts on TON Blockchain. ALl the addresses of the wallets are as followed:
+  * All the information related to Token's(Loyalty and  Brand) transactions are stored on TON's Blockchain.
+
+ ## Circle API:
+
+  * Circle API is used to import certain contracts related to TOKENMART That is TOKENMART NFT, Loyalty token contract and TOKENMART contract itself from the Polygon Mumbai Chain using Node.js.
+
+ ## Polygon:
+
+  * Deployed and verified all the contracts on the Polygon blockchain, That includes:
+    * TOKENMART's Smart Contract
+    * TOKENMART's NFT Smart Contract
+    * Loyalty Token Smart Contract
+
+ ## MongoDB:
+ 
+   * Stores information about the Brands like:
+     * BrandID
+     * Brand Name
+     * Brand Symbol
+     * Token Percentage
+     * Brand Base Price
+     * Brand Owner
+     * Brand Token Address
+    
+   * Also stores all the information of the Brand's products displayed on the Platform.
+   
+   * Also Stores information about the User like:
+      * Total Dollar Spent
+      * Total Token reward
+      * Number of Refferals
+      * Total loyalty Tokens
+      * Total Balance of the User
+
     
 
 # Tech Stack:
